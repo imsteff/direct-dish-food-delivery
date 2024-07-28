@@ -28,12 +28,12 @@ const Footer = () => {
                 <h2>GET IN TOUCH</h2>
                 <ul>
                     <li>717-3894</li>
-                    <li>contact@tomato.com</li>
+                    <li>contact@directdish.com</li>
                 </ul>
             </div>
         </div>
         <hr />
-        <p className="footer-copyright">Copyright 2024 Tomato.com - All Rights Reserved.</p>
+        <p className="footer-copyright">Copyright 2024 DirectDish.com - All Rights Reserved.</p>
     </div>
   )
 }

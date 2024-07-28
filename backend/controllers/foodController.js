@@ -1,12 +1,12 @@
-import { log } from "console";
-import foodModel from "../models/foodModel.js";
+import foodModel from '../models/foodModel.js'
 import fs from 'fs'
 
 
 // add food item
+
 const addFood = async (req,res) => {
 
-    let image_filename= `${req.file.filename}`;
+    let image_filename = `${req.file.filename}`;
 
     const food = new foodModel({
         name:req.body.name,
@@ -48,5 +48,6 @@ const removeFood = async (req,res) => {
         res.json({success:false,message:"Error"})
     }
 }
+
 
 export {addFood,listFood,removeFood}

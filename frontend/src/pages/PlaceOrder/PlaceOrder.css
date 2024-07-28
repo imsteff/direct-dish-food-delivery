@@ -7,7 +7,7 @@
 }
 .place-order-left{
     width: 100%;
-    max-width: max(30%,500px);
+    max-width: max(30%, 500px);
 }
 .place-order-left .title{
     font-size: 30px;
@@ -26,10 +26,81 @@
     display: flex;
     gap: 10px;
 }
-.place-order-right {
+.place-order-right{
     width: 100%;
-    max-width: max(40%,500px);
+    max-width: max(40%, 500px);
 }
 .place-order .cart-total button{
     margin-top: 30px;
+}
+
+:root .emaill {
+    background-color: white;
+}
+:root .emaill{
+    color: black;
+}
+
+:root .streett {
+    background-color: white;
+}
+:root .streett{
+    color: black;
+}
+
+:root .phonee {
+    background-color: white;
+}
+:root .phonee{
+    color: black;
+}
+
+
+.lightcolors .emaill {
+    background-color: white;
+}
+.lightcolors .emaill{
+    color: black;
+}
+
+.lightcolors .streett {
+    background-color: white;
+}
+.lightcolors .streett{
+    color: black;
+}
+
+.lightcolors .phonee {
+    background-color: black;
+}
+.lightcolors .phonee{
+    color: black;
+}
+
+
+:root .multi-fields input {
+    background-color: white;
+    color: black; 
+}
+
+:root .multi-fields input::placeholder {
+    color: black;
+}
+
+
+.lightcolors .multi-fields input {
+    background-color: white;
+    color: black;
+}
+.lightcolors .multi-fields input::placeholder {
+    color: black;
+}
+
+
+:root .title {
+    color: black;
+}
+
+.lightcolors .title {
+    color: black;
 }

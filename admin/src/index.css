@@ -9,12 +9,12 @@
 
 body{
   min-height: 100vh;
-  background-color: #fcfcfc;
+  background-color: var(--body-color);
 }
 
 a{
   text-decoration: none;
-  color: inherit;
+  color: inherit
 }
 
 hr{
@@ -27,6 +27,8 @@ hr{
   display: flex;
 }
 
-.cursor{
-  cursor: pointer;
+.flex-col{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
