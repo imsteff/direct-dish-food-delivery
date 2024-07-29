@@ -10,6 +10,7 @@
     <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
     <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
     <img alt="Language" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
   </p>
 
 
@@ -28,6 +29,3 @@ Admin - List of products
 
 Admin - Orders
 <img width="1470" alt="Admin-orders" src="https://github.com/user-attachments/assets/13c01a26-467f-489e-9886-481ec1e49aaf">
-
-
-
