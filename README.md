@@ -1,4 +1,4 @@
-<h1 align="center">Direct Dish Food Delivery Website</h1>
+<h1 align="center">Direct Dish Food Ordering Website</h1>
   
   
   <p align="center">
