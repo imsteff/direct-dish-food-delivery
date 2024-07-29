@@ -13,6 +13,8 @@
     <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
   </p>
 
+# Deployment
+The application is deployed and accessible at https://direct-dish.onrender.com/
 
 # Screenshots
 Homepage - Light mode
