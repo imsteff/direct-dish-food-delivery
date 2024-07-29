@@ -31,3 +31,5 @@ Admin - List of products
 
 Admin - Orders
 <img width="1470" alt="Admin-orders" src="https://github.com/user-attachments/assets/13c01a26-467f-489e-9886-481ec1e49aaf">
+
+- [ ] Take note that you need to be signed in inorder to checkout. 
