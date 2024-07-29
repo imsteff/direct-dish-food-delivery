@@ -1,2 +1,4 @@
-# food-delivery
- Full Stack Food Ordering Website using React JS, MongoDB, Express & Node JS
+
+# Direct Dish Food Delivery Website
+
+Full Stack Food Ordering Website using React JS, MongoDB, Express & Node JS
